@@ -7,3 +7,6 @@ New stencils are added on as-needed basis so do not expect to see all the icons 
 
 ## Topology example
 ![alt text](https://github.com/DukeNuke3D/ntwrk-clean-and-flat/blob/main/Example.png)
+
+## Even if you are on dark side
+![alt text](https://github.com/DukeNuke3D/ntwrk-clean-and-flat/blob/main/Example-dark.png)
